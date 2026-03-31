@@ -4,16 +4,10 @@ sher = "vishakha"
 print(sher)
 
 SheryiansSchool = "students" #pascal case
-print(SheryiansSchool)
 
 sheryiansSchool = "students" #camel case
-print(sheryiansSchool)
 
 sheryians_school = "students" #snake case
-print(sheryians_school)
-
-
-
 
 """data types"""
 
